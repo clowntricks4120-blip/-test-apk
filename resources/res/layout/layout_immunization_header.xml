@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/immunization_header_container"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="rtl"
+    android:paddingStart="0dp"
+    android:paddingEnd="0dp">
+    <TextView
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:gravity="right"
+        android:id="@+id/tvImmunizedLabel"
+        android:paddingBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="کیا بچے نے تمام لازمی ٹیکے لگوا لیے ہیں؟"
+        android:fontFamily="@font/jameel_noori_nastaleeq"/>
+    <Spinner
+        android:id="@+id/spinnerImmunized"
+        android:background="@drawable/spinner_bg"
+        android:padding="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:spinnerMode="dropdown"/>
+    <TextView
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:gravity="right"
+        android:id="@+id/tvReasonLabel"
+        android:paddingTop="15dp"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="بچہ / بچی کو حفاظتی ٹیکے کیوں نہیں لگائے گئے؟"
+        android:fontFamily="@font/jameel_noori_nastaleeq"/>
+    <Spinner
+        android:id="@+id/spinnerReason"
+        android:background="@drawable/spinner_bg"
+        android:padding="15dp"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginTop="10dp"
+        android:spinnerMode="dropdown"/>
+</LinearLayout>

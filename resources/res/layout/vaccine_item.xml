@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/vaccine_item_container"
+    android:paddingTop="15dp"
+    android:paddingBottom="15dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="15dp"
+    android:layout_marginBottom="15dp">
+    <CheckBox
+        android:textSize="17sp"
+        android:id="@+id/cb_vaccine"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ویکسین کا نام"
+        android:fontFamily="@font/jameel_noori_nastaleeq"
+        android:layoutDirection="rtl"/>
+    <Spinner
+        android:id="@+id/spinner_response"
+        android:background="@drawable/spinner_bg"
+        android:padding="15dp"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+    <Spinner
+        android:id="@+id/spinner_reason"
+        android:background="@drawable/spinner_bg"
+        android:padding="15dp"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"/>
+</LinearLayout>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="banks">
+        <item>Select Bank</item>
+        <item>Al Baraka Bank (Pakistan) Limited</item>
+        <item>Allied Bank Limited</item>
+        <item>Askari Bank Limited</item>
+        <item>Bank Alfalah Limited</item>
+        <item>Bank Al-Habib Limited</item>
+        <item>Bank Islami Pakistan Limited</item>
+        <item>Bank of Azad Jammu &amp; Kashmir</item>
+        <item>Bank of China Limited</item>
+        <item>Citi Bank</item>
+        <item>Deutsche Bank A.G</item>
+        <item>Dubai Islamic Bank Pakistan Limited</item>
+        <item>Faysal Bank Limited</item>
+        <item>First Women Bank Limited</item>
+        <item>Habib Bank Limited</item>
+        <item>Habib Metropolitan Bank Limited</item>
+        <item>Standard Chartered Bank (Pakistan) Limited</item>
+        <item>Habib Metropolitan Bank Limited</item>
+        <item>Industrial and Commercial Bank of China</item>
+        <item>Industrial Development Bank of Pakistan</item>
+        <item>JS Bank Limited</item>
+        <item>MCB Bank Limited</item>
+        <item>MCB Islamic Bank Limited</item>
+        <item>Meezan Bank Limited</item>
+        <item>Mobilink Jazz Cash</item>
+        <item>National Bank of Pakistan</item>
+        <item>Punjab Provincial Cooperative Bank Limited</item>
+        <item>Samba Bank Limited</item>
+        <item>Silk Bank Limited</item>
+        <item>Sindh Bank Limited</item>
+        <item>SME Bank Limited</item>
+        <item>Soneri Bank Limited</item>
+        <item>Standard Chartered Bank (Pakistan) Limited</item>
+        <item>Summit Bank Limited</item>
+        <item>Telenor Easy Paisa</item>
+        <item>The Bank of Khyber</item>
+        <item>The Bank of Punjab</item>
+        <item>The Bank of Tokyo-Mitsubishi UFJ</item>
+        <item>United Bank Limited</item>
+        <item>U-Paisa</item>
+        <item>Zarai Tarqiati Bank Limited</item>
+    </array>
+    <array name="banksBike">
+        <item>HBL</item>
+        <item>UBL</item>
+        <item>MCB</item>
+        <item>Allied Bank</item>
+        <item>Bank Alfalah</item>
+        <item>Bank Al Habib</item>
+        <item>Faysal Bank</item>
+        <item>JS Bank</item>
+        <item>Askari Bank</item>
+        <item>Standard Chartered</item>
+        <item>Sindh Bank</item>
+        <item>Bank of Punjab</item>
+        <item>National Bank of Pakistan</item>
+        <item>Dubai Islamic Bank</item>
+        <item>Meezan Bank</item>
+        <item>Easy Paisa</item>
+        <item>Jazz Cash</item>
+    </array>
+    <array name="bike_types">
+        <item>Below 50 CC</item>
+        <item>51 CC to 70 CC</item>
+        <item>71 CC to 125 CC</item>
+        <item>126 CC to Above</item>
+    </array>
+    <array name="networks">
+        <item>Select Network</item>
+        <item>Jazz</item>
+        <item>Telenor</item>
+        <item>Zong</item>
+        <item>Ufone</item>
+        <item>SCom</item>
+    </array>
+    <array name="number_of_rooms">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </array>
+    <array name="provinces">
+        <item>Sindh</item>
+        <item>Punjab</item>
+        <item>KPK</item>
+        <item>Balouchistan</item>
+        <item>AJK</item>
+        <item>Gilgit-Baltistan</item>
+    </array>
+    <array name="select_enumerator">
+        <item>Noman</item>
+        <item>Bilal</item>
+        <item>Naeem</item>
+        <item>Rehan</item>
+        <item>Irfan</item>
+    </array>
+    <array name="spot_check_user_menu_items">
+        <item>@drawable/grid_add_locality</item>
+        <item>@drawable/grid_sent_data</item>
+    </array>
+    <array name="spot_check_user_menu_items_strings">
+        <item>Select New Locality</item>
+        <item>View Sent Data</item>
+    </array>
+    <array name="supervisor_menu_items">
+        <item>@drawable/grid_add_locality</item>
+        <item>@drawable/grid_close_locality</item>
+        <item>@drawable/grid_sync_locality</item>
+        <item>@drawable/grid_submission</item>
+        <item>@drawable/grid_not_home</item>
+        <item>@drawable/grid_sent_data</item>
+        <item>@drawable/grid_reports</item>
+        <item>@drawable/grid_reports</item>
+        <item>@drawable/grid_reports</item>
+    </array>
+    <array name="supervisor_menu_items_strings">
+        <item>Select New Locality/EA</item>
+        <item>Close Locality/EA</item>
+        <item>Transfer Locality/EA Information</item>
+        <item>View Submission/Validate Submission</item>
+        <item>Not At Home</item>
+        <item>View Sent Data</item>
+        <item>Reports</item>
+        <item>AssignLocalities/EA</item>
+        <item>Summary Report</item>
+    </array>
+</resources>

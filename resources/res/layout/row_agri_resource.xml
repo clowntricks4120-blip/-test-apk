@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="2dp"
+    app:cardBackgroundColor="@color/cropCVBg">
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <CheckBox
+            android:textSize="@dimen/subheading_text_size"
+            android:gravity="end|center_vertical"
+            android:id="@+id/cb_selected"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="asdasdadasdasdasdsa"
+            android:textAlignment="textEnd"
+            android:buttonTint="@color/colorButtonGreen"/>
+        <Spinner
+            android:id="@+id/sp_owner"
+            android:background="@drawable/spinner_bg"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="2dp"/>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

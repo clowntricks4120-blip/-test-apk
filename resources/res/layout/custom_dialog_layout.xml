@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#ffffffff"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:gravity="center"
+        android:id="@+id/a"
+        android:background="@color/colorPrimary"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:src="@drawable/bisplogo"
+        android:scaleType="fitCenter"/>
+    <TextView
+        android:textSize="18sp"
+        android:textColor="#ff000000"
+        android:gravity="center_horizontal"
+        android:id="@+id/message_textView_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="20dp"
+        android:text=""
+        android:layout_below="@+id/a"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:textSize="18sp"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@+id/survey_offline_button_dialog"
+        android:background="@drawable/btn_selector_thumb"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginBottom="20dp"
+        android:text="ٹھیک ہے"
+        android:layout_below="@+id/message_textView_dialog"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

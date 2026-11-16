@@ -1,0 +1,3177 @@
+{
+  "data": {
+
+  "lib_mobile":
+  [
+
+    {"prefix":355,"provider":"SCO","operator_code":1355,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":348,"provider":"bisp-Telenor","operator_code":1345,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":347,"provider":"bisp-Telenor","operator_code":1345,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":346,"provider":"bisp-Telenor","operator_code":1345,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":340,"provider":"bisp-Telenor","operator_code":1345,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":344,"provider":"bisp-Telenor","operator_code":1345,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":343,"provider":"bisp-Telenor","operator_code":1345,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":342,"provider":"bisp-Telenor","operator_code":1345,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":341,"provider":"bisp-Telenor","operator_code":1345,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":349,"provider":"bisp-Telenor","operator_code":1345,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":345,"provider":"bisp-Telenor","operator_code":1345,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+
+    {"prefix":331,"provider":"bisp-ufone","operator_code":1333,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":339,"provider":"bisp-ufone","operator_code":1333,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":338,"provider":"bisp-ufone","operator_code":1333,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":337,"provider":"bisp-ufone","operator_code":1333,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":336,"provider":"bisp-ufone","operator_code":1333,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":335,"provider":"bisp-ufone","operator_code":1333,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":334,"provider":"bisp-ufone","operator_code":1333,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":333,"provider":"bisp-ufone","operator_code":1333,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":332,"provider":"bisp-ufone","operator_code":1333,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":330,"provider":"bisp-ufone","operator_code":1333,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+
+    {"prefix":311,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":312,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":313,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":314,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":315,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":310,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":317,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":318,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":319,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":371,"provider":"bisp-zong","operator_code":1310,"idate":"17-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":370,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":316,"provider":"bisp-zong","operator_code":1310,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+
+    {"prefix":305,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":304,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 PM"},
+    {"prefix":303,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":302,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":301,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":300,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":320,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":306,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":307,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":308,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":309,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":329,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":328,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":327,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":326,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":325,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":324,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":323,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":321,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"},
+    {"prefix":322,"provider":"bisp-jazz","operator_code":1300,"idate":"13-NOV-25 03.18.14.000000000 AM"}
+
+
+
+  ],
+    "user": {
+      "id": "27729",
+      "ip_address": null,
+      "username": "",
+      "password": "",
+      "user_role_id": "2",
+      "login_type": "MAC",
+      "mac_no": "12:31:22:43:42:34",
+      "imei_no": "",
+      "app_version": null,
+      "firm_id": "23",
+      "supervisor_id": "27728",
+      "division_id": null,
+      "survey_limit_per_day": null,
+      "survey_limit_total": null,
+      "salt": null,
+      "email": "",
+      "cnic": "",
+      "activation_code": "",
+      "forgotten_password_code": null,
+      "forgotten_password_time": null,
+      "remember_code": null,
+      "created_on": null,
+      "last_login": null,
+      "active": null,
+      "first_name": "",
+      "last_name": "",
+      "company": null,
+      "district_id": "611",
+      "phone": "",
+      "in_active": "0",
+      "force_update": "0",
+      "is_validate": "1",
+      "recover": "0",
+      "is_sms_activated": "0",
+      "created_datetime": "2020-09-08T11:24:09+05:00",
+      "imei_mac": "",
+      "server_time": "2020-09-09T23:10:56",
+      "supervisor_phone": "",
+      "supervisor_username": "",
+      "supervisor_firm_id": "23",
+      "supervior_imei": "",
+      "status": "success",
+      "message": "User Updated Successfully!!!"
+    },
+    "locality": {
+      "batch_size": 3,
+      "date": "2020-09-09T00:00:00",
+      "desk_based_survey": 1,
+      "district_id": 611,
+      "district_name": "ISLAMABAD",
+      "imei_number": "",
+      "is_gps_exempted": 1,
+      "is_hard": 0,
+      "is_recollection": 0,
+      "is_validate": 1,
+      "latitude": null,
+      "longitude": null,
+      "po_id": 0,
+      "po_name": "",
+      "province_id": 6,
+      "province_name": "ISLAMABAD",
+      "region": "urban",
+      "tab_vs_gps_time": null,
+      "tehsil_id": 6111,
+      "tehsil_name": "ISLAMABAD",
+      "temp_address": "TEMP_ISLAMABAD",
+      "per_address": "PER_ISLAMABAD",
+      "time": "2020-09-09T00:00:00",
+      "uc_id": 61112,
+      "uc_name": "Union Council name",
+      "villageAccuracy": 999.0,
+      "village_boundaries": [
+        {
+          "coord_order": "1195912",
+          "latitude": "33.743968963623",
+          "longitude": "73.1052780151367",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195913",
+          "latitude": "33.7441482543945",
+          "longitude": "73.1050338745117",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195914",
+          "latitude": "33.7445297241211",
+          "longitude": "73.10302734375",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195915",
+          "latitude": "33.7455787658691",
+          "longitude": "73.1007232666016",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195916",
+          "latitude": "33.7461967468262",
+          "longitude": "73.0992126464844",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195917",
+          "latitude": "33.7465209960938",
+          "longitude": "73.0983200073242",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195918",
+          "latitude": "33.7466049194336",
+          "longitude": "73.0978775024414",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195919",
+          "latitude": "33.7465782165527",
+          "longitude": "73.0973052978516",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195920",
+          "latitude": "33.7463874816895",
+          "longitude": "73.0964965820313",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195921",
+          "latitude": "33.7460136413574",
+          "longitude": "73.0950469970703",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195922",
+          "latitude": "33.7456817626953",
+          "longitude": "73.0935440063477",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195923",
+          "latitude": "33.745849609375",
+          "longitude": "73.0934066772461",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195924",
+          "latitude": "33.7456130981445",
+          "longitude": "73.0922088623047",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195925",
+          "latitude": "33.7453269958496",
+          "longitude": "73.0910873413086",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195926",
+          "latitude": "33.7435417175293",
+          "longitude": "73.091178894043",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195927",
+          "latitude": "33.7435302734375",
+          "longitude": "73.0910263061523",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195928",
+          "latitude": "33.7407684326172",
+          "longitude": "73.0908813476563",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195929",
+          "latitude": "33.7407836914063",
+          "longitude": "73.0911331176758",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195930",
+          "latitude": "33.7403831481934",
+          "longitude": "73.0911636352539",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195931",
+          "latitude": "33.7399978637695",
+          "longitude": "73.091178894043",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195932",
+          "latitude": "33.7399559020996",
+          "longitude": "73.091178894043",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195933",
+          "latitude": "33.7394828796387",
+          "longitude": "73.0911483764648",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195934",
+          "latitude": "33.7386131286621",
+          "longitude": "73.091178894043",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195935",
+          "latitude": "33.7371864318848",
+          "longitude": "73.0912322998047",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195936",
+          "latitude": "33.736328125",
+          "longitude": "73.091194152832",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195937",
+          "latitude": "33.7356986999512",
+          "longitude": "73.0912246704102",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195938",
+          "latitude": "33.7351722717285",
+          "longitude": "73.0913391113281",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195939",
+          "latitude": "33.7341575622559",
+          "longitude": "73.0918197631836",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195940",
+          "latitude": "33.7335586547852",
+          "longitude": "73.0923080444336",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195941",
+          "latitude": "33.7329177856445",
+          "longitude": "73.0927810668945",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195942",
+          "latitude": "33.7326164245605",
+          "longitude": "73.0929794311523",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195943",
+          "latitude": "33.7323532104492",
+          "longitude": "73.0930862426758",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195944",
+          "latitude": "33.7322273254395",
+          "longitude": "73.0930404663086",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195945",
+          "latitude": "33.7320404052734",
+          "longitude": "73.0929870605469",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195946",
+          "latitude": "33.7318801879883",
+          "longitude": "73.0929107666016",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195947",
+          "latitude": "33.7314720153809",
+          "longitude": "73.0927963256836",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195948",
+          "latitude": "33.7308540344238",
+          "longitude": "73.0926284790039",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195949",
+          "latitude": "33.7300682067871",
+          "longitude": "73.0923843383789",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195950",
+          "latitude": "33.7297515869141",
+          "longitude": "73.0922317504883",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195951",
+          "latitude": "33.7294044494629",
+          "longitude": "73.0936126708984",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195952",
+          "latitude": "33.7288360595703",
+          "longitude": "73.0951461791992",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195953",
+          "latitude": "33.728443145752",
+          "longitude": "73.096321105957",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195954",
+          "latitude": "33.7276229858398",
+          "longitude": "73.0969619750977",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195955",
+          "latitude": "33.7237319946289",
+          "longitude": "73.099853515625",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195956",
+          "latitude": "33.7232704162598",
+          "longitude": "73.1002349853516",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195957",
+          "latitude": "33.7243881225586",
+          "longitude": "73.1021347045898",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195958",
+          "latitude": "33.7267417907715",
+          "longitude": "73.1068496704102",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195959",
+          "latitude": "33.7288131713867",
+          "longitude": "73.1109161376953",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195960",
+          "latitude": "33.7298851013184",
+          "longitude": "73.1096649169922",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195961",
+          "latitude": "33.7307052612305",
+          "longitude": "73.1081314086914",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195962",
+          "latitude": "33.731990814209",
+          "longitude": "73.1061706542969",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195963",
+          "latitude": "33.7324905395508",
+          "longitude": "73.1057739257813",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195964",
+          "latitude": "33.733097076416",
+          "longitude": "73.1053466796875",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195965",
+          "latitude": "33.7339172363281",
+          "longitude": "73.1054229736328",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195966",
+          "latitude": "33.7344512939453",
+          "longitude": "73.1053085327148",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195967",
+          "latitude": "33.7351303100586",
+          "longitude": "73.1060638427734",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195968",
+          "latitude": "33.7355575561523",
+          "longitude": "73.1072006225586",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195969",
+          "latitude": "33.7366523742676",
+          "longitude": "73.1064910888672",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195970",
+          "latitude": "33.7385101318359",
+          "longitude": "73.1056365966797",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195971",
+          "latitude": "33.7408866882324",
+          "longitude": "73.1053009033203",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195972",
+          "latitude": "33.7429351806641",
+          "longitude": "73.1052551269531",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195973",
+          "latitude": "33.7439002990723",
+          "longitude": "73.1054611206055",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        },
+        {
+          "coord_order": "1195974",
+          "latitude": "33.743968963623",
+          "longitude": "73.1052780151367",
+          "tag": null,
+          "village_id": "611120225",
+          "id": null
+        }
+      ],
+      "village_id": 611120225,
+      "village_map_list": [
+        {
+          "superviosr_id": 2,
+          "enumerator_id": 1,
+          "village_id": 1
+        },
+        {
+          "superviosr_id": 2,
+          "enumerator_id": 1,
+          "village_id": 1
+        }
+      ],
+      "village_name": "Village name",
+      "village_structure_number": [
+        {
+          "distance": "25",
+          "is_gps_bound": "0",
+          "listing_id": "6876",
+          "longitude": "C695E9865F5984B462A960E67293E2017EDDD58A3F52613F51A97C0B12B0B715",
+          "latitude": "DD1018E9D95B1BED006B23CE53E0B0D263C55C3C6DC11AEB4F1EAE2BFE73317B",
+          "structure_number": "12",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "6877",
+          "longitude": "C42A7853B55263DB79A67137B1E6F681A2A77FB3D5269F9C44CF56F5C54FAF63",
+          "latitude": "3CCB49A72915EC23C3A5AAED9BD6424C51ED6EC691897F3D8B2DD095C8EC7CDE",
+          "structure_number": "13",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "25",
+          "is_gps_bound": "0",
+          "listing_id": "6878",
+          "longitude": "7C78DED70DF2A536F55B51807FD23AEEC0F117AD781544B08EA7D4545EAC85B0",
+          "latitude": "56217629C40C65902F5F2CC82B1F3FDA34A11C1639E5E891FB2BECB2FB654289",
+          "structure_number": "14",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "6879",
+          "longitude": "71C91F995F0A469F0A5329F07CDFF1A535EB3A93D0FCE6322205A768BBDFDD6D",
+          "latitude": "725F363FDB36E1A9E103B328A5363B491B0E1588AAB4361B2D38A47E5EF84A2F",
+          "structure_number": "15",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "6880",
+          "longitude": "EC5CA0582F08DC8D4852F09B4DFF575FC24C001DAE7495375C8C8861A7F3D9EA",
+          "latitude": "3664D389E227409F54D5373EB6AACF15EC4C547940144A4A0755FF7B98B0F541",
+          "structure_number": "16",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "255",
+          "is_gps_bound": "0",
+          "listing_id": "6938",
+          "longitude": "B5FE055FAD2D3210528D25B3CC9A8262D84BF72B399F31954275F72507B64D09",
+          "latitude": "C35ABB889F9869ECDED43A9E70D95585718FCB0A9B77C3F8010AF889DFE33F65",
+          "structure_number": "17",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "255",
+          "is_gps_bound": "0",
+          "listing_id": "6939",
+          "longitude": "B5FE055FAD2D3210528D25B3CC9A8262D84BF72B399F31954275F72507B64D09",
+          "latitude": "C35ABB889F9869ECDED43A9E70D95585718FCB0A9B77C3F8010AF889DFE33F65",
+          "structure_number": "18",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "255",
+          "is_gps_bound": "0",
+          "listing_id": "6940",
+          "longitude": "B5FE055FAD2D3210528D25B3CC9A8262D84BF72B399F31954275F72507B64D09",
+          "latitude": "C35ABB889F9869ECDED43A9E70D95585718FCB0A9B77C3F8010AF889DFE33F65",
+          "structure_number": "19",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "255",
+          "is_gps_bound": "0",
+          "listing_id": "6941",
+          "longitude": "B5FE055FAD2D3210528D25B3CC9A8262D84BF72B399F31954275F72507B64D09",
+          "latitude": "C35ABB889F9869ECDED43A9E70D95585718FCB0A9B77C3F8010AF889DFE33F65",
+          "structure_number": "20",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "6942",
+          "longitude": "EC5CA0582F08DC8D4852F09B4DFF575FC24C001DAE7495375C8C8861A7F3D9EA",
+          "latitude": "3664D389E227409F54D5373EB6AACF15EC4C547940144A4A0755FF7B98B0F541",
+          "structure_number": "21",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "255",
+          "is_gps_bound": "0",
+          "listing_id": "6943",
+          "longitude": "7C7160209A4CDDDB445534C66D8E380A972A4CDEA0315D60AF14C80731E386B8",
+          "latitude": "8B31C6FA855F6BF375F98B0B0719C6E4BF47761BF72FC7ED26227DBC16AAD50D",
+          "structure_number": "22",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "6944",
+          "longitude": "F45A95CADA872952503D53C5D573F3D3F8E6A3A959C26AC3AD3FCE40EBC98640",
+          "latitude": "DAFF6F1D0354A2AB06E72470832016C7C3018694FCA2E7BCCFB45AB779E37FBF",
+          "structure_number": "23",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "25",
+          "is_gps_bound": "0",
+          "listing_id": "6945",
+          "longitude": "DB1BBC1ED6FEA76938F72DE21DD8F02AE296087384666FCD3C016238F8D9383B",
+          "latitude": "34BD64873BEA3435CDE38CA45174650FBC753ACB33D280A1518CBB524BC65FB1",
+          "structure_number": "24",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "25",
+          "is_gps_bound": "0",
+          "listing_id": "6946",
+          "longitude": "15F749E410AC4CD778570153E9E62ECEA8177200B651A8280BE39B13A1A7F55E",
+          "latitude": "04E2067EBB905D224C0BBC1DD8EFFB006A3C4A91E2BE2B5B35D54BA832919B79",
+          "structure_number": "25",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "6947",
+          "longitude": "30499D4F57E67CE00BE67FB1208BF6DDB9850B68FA6D24EE970053381D24908F",
+          "latitude": "A3039C6E6587F7CBD85A13549E1DDD5D765D126EF0992AE317281B949D5025E4",
+          "structure_number": "26",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "255",
+          "is_gps_bound": "0",
+          "listing_id": "6968",
+          "longitude": "8FEFDAD32E025941C5951D6A4DE8A8D14F70A0F01F0ED4D85CED10546FFD2FF9",
+          "latitude": "93B6F67FB26123396E3D08EC4D2AD676F4D90259B5BD21D78FC2B174784B7546",
+          "structure_number": "27",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "255",
+          "is_gps_bound": "0",
+          "listing_id": "6969",
+          "longitude": "D490D4950C2E0F9C402B581081D216F4D4361015AE54E34BEC7497825C04B4E3",
+          "latitude": "3D951C21B4B1B3E62513FC4BC8D6D5315E802BB98E5190A568246AE889F2EEB9",
+          "structure_number": "28",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "25",
+          "is_gps_bound": "0",
+          "listing_id": "6970",
+          "longitude": "2069A60E23ED60F59D76D51B4CA1D798D45ECE9DAE33F051DA8911DB1FB07267",
+          "latitude": "429C05F9D9E31F4B7844C46B07943B1B6629415C89537BA14161112D0A9CAA3F",
+          "structure_number": "29",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "6971",
+          "longitude": "7C7160209A4CDDDB445534C66D8E380A972A4CDEA0315D60AF14C80731E386B8",
+          "latitude": "FC0D942ED1C6D85FBE32D23064C59F59D873B2DF7469E8A7E31BB5409E6D49A1",
+          "structure_number": "30",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "6972",
+          "longitude": "A4014439FCD9B51415927A7A14221099661C09785A63102AC45DE02F18BE9405",
+          "latitude": "677EC0C9B57D5F3EA6F78110A9DF8081500F8F29CAADDD515691E27062FB7DF9",
+          "structure_number": "31",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "6973",
+          "longitude": "0699F26D314148C1D674AE82B0EAF48C4310D98990389AE0A61B0F56908AB88D",
+          "latitude": "02BD43B02D44FA8D3F410008EB95C719BCB866FEE07A0ED910672836FD9DEFA5",
+          "structure_number": "32",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "25",
+          "is_gps_bound": "0",
+          "listing_id": "7514",
+          "longitude": "2BCB283954F8CE34212889C9481150CB52DFE0FC4EB6987BDA600466C86F2E35",
+          "latitude": "B109DE9FB4E9B2240CFEBC25356A0649A8C4BB1093746AFE2D95748C6D5A8688",
+          "structure_number": "33",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "50",
+          "is_gps_bound": "0",
+          "listing_id": "7515",
+          "longitude": "2BCB283954F8CE34212889C9481150CB52DFE0FC4EB6987BDA600466C86F2E35",
+          "latitude": "B109DE9FB4E9B2240CFEBC25356A0649A8C4BB1093746AFE2D95748C6D5A8688",
+          "structure_number": "34",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "7516",
+          "longitude": "59700FC2D34985EB1548FDA142F44D4B4766A45CF0FF7F10375ADDE13140A497",
+          "latitude": "7C3966077E11E2413CB6020B0A108E1100DC5E2D979916BF0394D200FB5A95A9",
+          "structure_number": "35",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "7517",
+          "longitude": "204B979EB95488CB2314A4023D88300F3418BF5CE0DD9EC1F93FC000C73B6266",
+          "latitude": "4AA060BE6BBBE370D43203BE33787ECA716F1520D08E3AEE66D6327ACE2E5AD4",
+          "structure_number": "36",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "7518",
+          "longitude": "5B33495F870F762DD1339959AE319F9599A71FE242EE94D3FF86CA1019290EDB",
+          "latitude": "518FB822B895D1CA652002FD094CDA96A9BC5F262EFF9A1872F70D8D156165F5",
+          "structure_number": "37",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "25",
+          "is_gps_bound": "0",
+          "listing_id": "7532",
+          "longitude": "1F022C4D7BCC3839235282E8919CEAFF16C3AF3CDDB3A0030AE899E6CBED88CE",
+          "latitude": "545534E0D976EE3842698E0BF60285F5F4964B0B19D00818C9C31C214BE8932F",
+          "structure_number": "38",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "7533",
+          "longitude": "E2E8ADDF4535B01AAF7E78CC3408CECDF788AEDC0A69A148134AFA06F153D108",
+          "latitude": "82804C65CBB9C6CEC3977AD3918A23C08F443C4792F89D01DD007182A4E3C805",
+          "structure_number": "39",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "25",
+          "is_gps_bound": "0",
+          "listing_id": "7534",
+          "longitude": "7CFC1F7A4CF0B2601C3AA1140A7E3DAD739C023A708A4639D88BA42555DECBAC",
+          "latitude": "2F9E8236C69712D2ECC0EE70640FC61917401704F55BAEAAD87FA1A4E9DE4DA2",
+          "structure_number": "40",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "7535",
+          "longitude": "F75BC5F1CDA503D0B4266A21964FA04AF5F94872BF7592FEA6EDDA44C39D13AB",
+          "latitude": "C7117A8C87FCB8F7691CA8AE2CACBFFA1FFA07866D1779E72B0188DEB8A6FC04",
+          "structure_number": "41",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "60",
+          "is_gps_bound": "0",
+          "listing_id": "7536",
+          "longitude": "E6E443005E759141D524EAA512FE75BAB79A1666D00DF624A177DF280485C6B1",
+          "latitude": "8071B5DC89667021239C4D4CC98889FE298810CABFFB72DFEE3789639E619A99",
+          "structure_number": "42",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "60",
+          "is_gps_bound": "0",
+          "listing_id": "7537",
+          "longitude": "0DCB8B9AEA950E6A8ED137F33FCC4450EAF7D93BDDC9A04686D506A7853A8223",
+          "latitude": "A32BB5894544A2BE9A82454153330E1EF6C5DEC5A304D15D819CCFC36C30EA0D",
+          "structure_number": "43",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "25",
+          "is_gps_bound": "0",
+          "listing_id": "9338",
+          "longitude": "3438A799C04FA13F007A7378A4936944DFD698B01945573BB4408D20251DC4ABDB81D0DC834F6118BDEE5E2FDEFB36DF",
+          "latitude": "2B84A11BF3F82D5382E057BCF6E2E626B6667808A02CE6E7F330FDC58276F1FE",
+          "structure_number": "49",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "9339",
+          "longitude": "3FF3C7D22E0E1F25D3E207271FEED4099C3B45CAC084FE155FB594CF52F3FE2CF298B0FCA95DB73C0C5E32D0AFA0C53D",
+          "latitude": "43518DE95F7313DA7CBBB6143C9D2A7DCB18E44AEB8DA8475D2CE75FA496AD1332377BD84CE4D5033AEE73C86BEE171C",
+          "structure_number": "50",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "9340",
+          "longitude": "7E09833354AAFF3A2C03E4BC67D6E0B508822123DC7D879E575DE2AECB14BD50944A8643E2543301EB30DD14B08682B7",
+          "latitude": "927D2B55C34331780B2D85AEEA48F1B70EC3A080D4531BE98DD26DADD948F839F0587DE83257BB63E9F042E5124BA6CE",
+          "structure_number": "51",
+          "village_id": "611120225"
+        },
+        {
+          "distance": "30",
+          "is_gps_bound": "0",
+          "listing_id": "9341",
+          "longitude": "B4662E434EF88BC240AE04B994AC4D222923F206F36E1F7985C76B353790CD29A2727F7DA64ABE485F27AAF9F230B62F",
+          "latitude": "D1F6F2EB33D4CB1CC6BD109C1AAE9F03418271703BAD272EA4E41429E140D749",
+          "structure_number": "52",
+          "village_id": "611120225"
+        }
+      ],
+      "id": 27729
+    },
+    "survey_time_limits": {
+      "id": "1",
+      "contact_time": "0",
+      "miscleanous_time": "0",
+      "roster_time": "0",
+      "assets_time": "0"
+    },
+    "server_apk_version": {
+      "status": "success",
+      "error_code": "0",
+      "version": "50",
+      "force_update": "0",
+      "apk_version": "5.10.1.1"
+    },
+    "exemptions": [
+      {
+        "superviosr_id": 1,
+        "enumerator_id": 1,
+        "village_id": 1
+      },
+      {
+        "superviosr_id": 1,
+        "enumerator_id": 1,
+        "village_id": 1
+      }
+    ],
+    "QuestionOptions": [
+      {
+        "option_id": 78,
+        "question": "cooking_fuel_used",
+        "option": "جلانے کی لکڑی",
+        "sort_order": 1
+      },
+      {
+        "option_id": 79,
+        "question": "cooking_fuel_used",
+        "option": "گیس ",
+        "sort_order": 2
+      },
+      {
+        "option_id": 80,
+        "question": "cooking_fuel_used",
+        "option": "مٹی کا تیل ",
+        "sort_order": 3
+      },
+      {
+        "option_id": 81,
+        "question": "cooking_fuel_used",
+        "option": "اوپلے ",
+        "sort_order": 4
+      },
+      {
+        "option_id": 82,
+        "question": "cooking_fuel_used",
+        "option": "بجلی ",
+        "sort_order": 5
+      },
+      {
+        "option_id": 83,
+        "question": "cooking_fuel_used",
+        "option": "چھڑیاں وغیرہ",
+        "sort_order": 6
+      },
+      {
+        "option_id": 84,
+        "question": "cooking_fuel_used",
+        "option": " کوئلہ /لکڑی کا کوئلہ",
+        "sort_order": 7
+      },
+      {
+        "option_id": 249,
+        "question": "crop_khareef",
+        "option": "چاول",
+        "sort_order": 1
+      },
+      {
+        "option_id": 250,
+        "question": "crop_khareef",
+        "option": "کپاس",
+        "sort_order": 2
+      },
+      {
+        "option_id": 251,
+        "question": "crop_khareef",
+        "option": "مکئی",
+        "sort_order": 3
+      },
+      {
+        "option_id": 252,
+        "question": "crop_khareef",
+        "option": "گنا/کماد",
+        "sort_order": 4
+      },
+      {
+        "option_id": 253,
+        "question": "crop_khareef",
+        "option": "ہری مرچ",
+        "sort_order": 5
+      },
+      {
+        "option_id": 254,
+        "question": "crop_khareef",
+        "option": "آم",
+        "sort_order": 6
+      },
+      {
+        "option_id": 255,
+        "question": "crop_khareef",
+        "option": "جوار",
+        "sort_order": 7
+      },
+      {
+        "option_id": 256,
+        "question": "crop_khareef",
+        "option": "انگور",
+        "sort_order": 8
+      },
+      {
+        "option_id": 257,
+        "question": "crop_khareef",
+        "option": "امرود",
+        "sort_order": 9
+      },
+      {
+        "option_id": 258,
+        "question": "crop_khareef",
+        "option": "سٹرابری",
+        "sort_order": 10
+      },
+      {
+        "option_id": 259,
+        "question": "crop_khareef",
+        "option": "کريلا",
+        "sort_order": 11
+      },
+      {
+        "option_id": 260,
+        "question": "crop_khareef",
+        "option": "لہسن",
+        "sort_order": 12
+      },
+      {
+        "option_id": 261,
+        "question": "crop_khareef",
+        "option": "چارہ جات",
+        "sort_order": 13
+      },
+      {
+        "option_id": 262,
+        "question": "crop_khareef",
+        "option": "تربوز",
+        "sort_order": 14
+      },
+      {
+        "option_id": 263,
+        "question": "crop_khareef",
+        "option": "خربوزہ",
+        "sort_order": 15
+      },
+      {
+        "option_id": 264,
+        "question": "crop_khareef",
+        "option": "مونگپھلی",
+        "sort_order": 16
+      },
+      {
+        "option_id": 265,
+        "question": "crop_khareef",
+        "option": "تيلداراجناس",
+        "sort_order": 17
+      },
+      {
+        "option_id": 266,
+        "question": "crop_khareef",
+        "option": "گوبھی",
+        "sort_order": 18
+      },
+      {
+        "option_id": 267,
+        "question": "crop_khareef",
+        "option": "متفرق سبزيات",
+        "sort_order": 19
+      },
+      {
+        "option_id": 268,
+        "question": "crop_khareef",
+        "option": "باغات",
+        "sort_order": 20
+      },
+      {
+         "option_id": 2700,
+         "question": "crop_khareef",
+         "option": "دیگر",
+         "sort_order": 21
+      },
+      {
+        "option_id": 235,
+        "question": "crop_rabi",
+        "option": "ٹماٹر",
+        "sort_order": 1
+      },
+      {
+        "option_id": 236,
+        "question": "crop_rabi",
+        "option": "آلو",
+        "sort_order": 2
+      },
+      {
+        "option_id": 237,
+        "question": "crop_rabi",
+        "option": "ترشادہ",
+        "sort_order": 3
+      },
+      {
+        "option_id": 238,
+        "question": "crop_rabi",
+        "option": "دالیں",
+        "sort_order": 4
+      },
+      {
+        "option_id": 239,
+        "question": "crop_rabi",
+        "option": "مکئی",
+        "sort_order": 5
+      },
+      {
+        "option_id": 240,
+        "question": "crop_rabi",
+        "option": "چارا جات",
+        "sort_order": 6
+      },
+      {
+        "option_id": 241,
+        "question": "crop_rabi",
+        "option": "پياز",
+        "sort_order": 7
+      },
+      {
+        "option_id": 242,
+        "question": "crop_rabi",
+        "option": "کھيرا",
+        "sort_order": 8
+      },
+      {
+        "option_id": 243,
+        "question": "crop_rabi",
+        "option": "گندم",
+        "sort_order": 9
+      },
+      {
+        "option_id": 244,
+        "question": "crop_rabi",
+        "option": "چنا",
+        "sort_order": 10
+      },
+      {
+        "option_id": 245,
+        "question": "crop_rabi",
+        "option": "تيلداراجناس",
+        "sort_order": 11
+      },
+      {
+        "option_id": 246,
+        "question": "crop_rabi",
+        "option": "متفرق سبزيات",
+        "sort_order": 12
+      },
+      {
+        "option_id": 247,
+        "question": "crop_rabi",
+        "option": "باغات",
+        "sort_order": 13
+      },
+      {
+         "option_id": 270,
+         "question": "crop_rabi",
+         "option": "دیگر",
+         "sort_order": 15
+      },
+      {
+        "option_id": 283,
+        "question": "ddd",
+        "option": "??? ????",
+        "sort_order": 88888
+      },
+      {
+        "option_id": 6,
+        "question": "disability_status",
+        "option": "کوئی معذوری نہیں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 7,
+        "question": "disability_status",
+        "option": "بازوؤں کی معذوری",
+        "sort_order": 2
+      },
+      {
+        "option_id": 8,
+        "question": "disability_status",
+        "option": " ٹانگوں کی معذوری",
+        "sort_order": 3
+      },
+      {
+        "option_id": 9,
+        "question": "disability_status",
+        "option": "دماغی معذوری",
+        "sort_order": 4
+      },
+      {
+        "option_id": 10,
+        "question": "disability_status",
+        "option": " قوت گویائی سے محرومی (گونگا)",
+        "sort_order": 5
+      },
+      {
+        "option_id": 11,
+        "question": "disability_status",
+        "option": "قوت سماعت سے محرومی (بہرا)",
+        "sort_order": 6
+      },
+      {
+        "option_id": 12,
+        "question": "disability_status",
+        "option": "قوتِ بصارت سے محرومی (جزوی)",
+        "sort_order": 7
+      },
+      {
+        "option_id": 13,
+        "question": "disability_status",
+        "option": "قوتِ بصارت سے محرومی (مکمل)",
+        "sort_order": 8
+      },
+      {
+        "option_id": 14,
+        "question": "disability_status",
+        "option": "دیگر",
+        "sort_order": 9
+      },
+      {
+        "option_id": 52,
+        "question": "employment_status",
+        "option": "سرکاری ملازمت ",
+        "sort_order": 1
+      },
+      {
+        "option_id": 53,
+        "question": "employment_status",
+        "option": "نیم سرکاری ملازمت",
+        "sort_order": 2
+      },
+      {
+        "option_id": 54,
+        "question": "employment_status",
+        "option": " پرائیویٹ مستقل ملازمت",
+        "sort_order": 3
+      },
+      {
+        "option_id": 55,
+        "question": "employment_status",
+        "option": " موسمی اُجرتی ملازمت/دیہاڑی (زرعی)",
+        "sort_order": 4
+      },
+      {
+        "option_id": 56,
+        "question": "employment_status",
+        "option": "موسمی اُجرتی ملازمت/دیہاڑی (غیر زرعی)",
+        "sort_order": 5
+      },
+      {
+        "option_id": 57,
+        "question": "employment_status",
+        "option": " ذاتی کاروبار (غیر زرعی )",
+        "sort_order": 6
+      },
+      {
+        "option_id": 58,
+        "question": "employment_status",
+        "option": "زراعت (کھیتی باڑی/ذاتی زمین/خودکاشتکار/مشترکہ زمین/مال مویشی/ٹھیکے پر زمین/مزارعے",
+        "sort_order": 7
+      },
+      {
+        "option_id": 59,
+        "question": "employment_status",
+        "option": " بغیر اُجرت کے خاندانی پیشے میں تعاون /مددگار)",
+        "sort_order": 8
+      },
+      {
+        "option_id": 60,
+        "question": "employment_status",
+        "option": "آجر ",
+        "sort_order": 9
+      },
+      {
+        "option_id": 217,
+        "question": "employment_status",
+        "option": "بے روزگار",
+        "sort_order": 10
+      },
+      {
+        "option_id": 285,
+        "question": "employment_status",
+        "option": "نہ ہی برسرِ روزگار اور نہ ہی روزگار کا متلاشی بوجہ ریٹائرڈ منٹ، طالب علمی، خاتونِ خانہ، معذوری وغیرہ",
+        "sort_order": 11
+      },
+      {
+        "option_id": 61,
+        "question": "employment_status",
+        "option": "دیگر",
+        "sort_order": 12
+      },
+      {
+        "option_id": 25,
+        "question": "gone_to_school",
+        "option": "کبھی نہیں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 26,
+        "question": "gone_to_school",
+        "option": "ماضی میں جاتا رہا/رہی ہے ",
+        "sort_order": 2
+      },
+      {
+        "option_id": 27,
+        "question": "gone_to_school",
+        "option": " اس وقت جا رہا/رہی ہے( چارسال یا اس سے زائدعمر کے افراد سے)",
+        "sort_order": 3
+      },
+      {
+        "option_id": 125,
+        "question": "has_aircooler",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 126,
+        "question": "has_aircooler",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 127,
+        "question": "has_air_conditioner",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 128,
+        "question": "has_air_conditioner",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 131,
+        "question": "has_cooking_range",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 132,
+        "question": "has_cooking_range",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 133,
+        "question": "has_cooking_stove",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 134,
+        "question": "has_cooking_stove",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 102,
+        "question": "has_electricity_connection",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 103,
+        "question": "has_electricity_connection",
+        "option": "ہاں لیکن کسی اور سے لیا ہوا ہے",
+        "sort_order": 2
+      },
+      {
+        "option_id": 104,
+        "question": "has_electricity_connection",
+        "option": "نہیں",
+        "sort_order": 3
+      },
+      {
+        "option_id": 129,
+        "question": "has_fan",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 130,
+        "question": "has_fan",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 141,
+        "question": "has_freezer",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 142,
+        "question": "has_freezer",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 105,
+        "question": "has_gas_connection",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 106,
+        "question": "has_gas_connection",
+        "option": "ہاں لیکن کسی اور سے لیا ہوا ہے",
+        "sort_order": 2
+      },
+      {
+        "option_id": 107,
+        "question": "has_gas_connection",
+        "option": "نہیں",
+        "sort_order": 3
+      },
+      {
+        "option_id": 143,
+        "question": "has_generator_ups",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 144,
+        "question": "has_generator_ups",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 123,
+        "question": "has_geyser",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 124,
+        "question": "has_geyser",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 119,
+        "question": "has_heater",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 120,
+        "question": "has_heater",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 157,
+        "question": "has_internet",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 158,
+        "question": "has_internet",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 149,
+        "question": "has_motorcycle",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 150,
+        "question": "has_motorcycle",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 147,
+        "question": "has_personal_computer",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 148,
+        "question": "has_personal_computer",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 155,
+        "question": "has_phone",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 156,
+        "question": "has_phone",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 108,
+        "question": "has_phone_connection",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 109,
+        "question": "has_phone_connection",
+        "option": "ہاں لیکن کسی اور سے لیا ہوا ہے",
+        "sort_order": 2
+      },
+      {
+        "option_id": 110,
+        "question": "has_phone_connection",
+        "option": "نہیں",
+        "sort_order": 3
+      },
+      {
+        "option_id": 139,
+        "question": "has_refrigerator",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 140,
+        "question": "has_refrigerator",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 145,
+        "question": "has_sewing_machine",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 146,
+        "question": "has_sewing_machine",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 211,
+        "question": "has_taken_loan",
+        "option": "قرض نہیں لیا",
+        "sort_order": 1
+      },
+      {
+        "option_id": 212,
+        "question": "has_taken_loan",
+        "option": "رشتہ دار/دوست/ہمسایہ",
+        "sort_order": 2
+      },
+      {
+        "option_id": 213,
+        "question": "has_taken_loan",
+        "option": "بینک",
+        "sort_order": 3
+      },
+      {
+        "option_id": 214,
+        "question": "has_taken_loan",
+        "option": "مائیکرو فنانس ادارے",
+        "sort_order": 4
+      },
+      {
+        "option_id": 215,
+        "question": "has_taken_loan",
+        "option": " روایتی /غیر رسمی قرض خواہ (ساھوکار/آڑھتی/بیوپاری/زمین دار/دکارندار)",
+        "sort_order": 5
+      },
+      {
+        "option_id": 216,
+        "question": "has_taken_loan",
+        "option": "دیگر ذرائع",
+        "sort_order": 6
+      },
+      {
+        "option_id": 151,
+        "question": "has_tractor",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 152,
+        "question": "has_tractor",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 135,
+        "question": "has_tv",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 136,
+        "question": "has_tv",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 153,
+        "question": "has_vehicle",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 154,
+        "question": "has_vehicle",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 137,
+        "question": "has_video_player",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 138,
+        "question": "has_video_player",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 121,
+        "question": "has_washing_machine",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 122,
+        "question": "has_washing_machine",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      
+      
+    
+    { "option_id": 403, "question": "having_chronic_disease", "option": "تپ دق", "sort_order": 30, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Tuberculosis (TB)" },
+            { "option_id": 402, "question": "having_chronic_disease", "option": "خناق", "sort_order": 29, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Diphtheria" },
+            { "option_id": 401, "question": "having_chronic_disease", "option": "کالی کھانسی", "sort_order": 28, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Pertussis (Whooping Cough)" },
+            { "option_id": 400, "question": "having_chronic_disease", "option": "تشنج", "sort_order": 27, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Tetanus" },
+            { "option_id": 399, "question": "having_chronic_disease", "option": "خسرہ / روبیلا", "sort_order": 26, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Measles/Rubella (German Measles)" },
+            { "option_id": 398, "question": "having_chronic_disease", "option": "نمونیا", "sort_order": 25, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Pneumonia" },
+            { "option_id": 397, "question": "having_chronic_disease", "option": "ٹائیفائیڈ", "sort_order": 24, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Typhoid" },
+            { "option_id": 396, "question": "having_chronic_disease", "option": "دست (روٹا وائرس)", "sort_order": 23, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Diarrhea (caused by Rotavirus)" },
+            { "option_id": 395, "question": "having_chronic_disease", "option": "ہڈیوں کا بھربھرا پن", "sort_order": 22, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Osteoporosis" },
+            { "option_id": 394, "question": "having_chronic_disease", "option": "الزائمر", "sort_order": 21, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Alzheimer's Disease" },
+            { "option_id": 393, "question": "having_chronic_disease", "option": "خودکار مدافعتی بیماریاں (لیوپس، گٹھیا)", "sort_order": 20, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Autoimmune Disorders (Lupus, Rheumatoid Arthritis)" },
+            { "option_id": 392, "question": "having_chronic_disease", "option": "ملیریا", "sort_order": 19, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Malaria" },
+            { "option_id": 391, "question": "having_chronic_disease", "option": "ڈینگی بخار", "sort_order": 18, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Dengue Fever" },
+            { "option_id": 390, "question": "having_chronic_disease", "option": "ہیپاٹائٹس اے", "sort_order": 17, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Hepatitis A" },
+            { "option_id": 389, "question": "having_chronic_disease", "option": "ہیضہ", "sort_order": 16, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Cholera" },
+            { "option_id": 388, "question": "having_chronic_disease", "option": "ہیپاٹائٹس بی", "sort_order": 15, "created_datetime": "06-NOV-25 05.23.45.778000000 AM", "updated_datetime": "06-NOV-25 05.23.45.778000000 AM", "option_english": "Hepatitis B" },
+            { "option_id": 291, "question": "having_chronic_disease", "option": "دیگر", "sort_order": 14, "created_datetime": "03-OCT-20 02.29.47.000000000 PM", "updated_datetime": "03-OCT-20 02.29.47.000000000 PM", "option_english": "other" },
+            { "option_id": 290, "question": "having_chronic_disease", "option": "ایڈز", "sort_order": 13, "created_datetime": "03-OCT-20 02.29.47.000000000 PM", "updated_datetime": "03-OCT-20 02.29.47.000000000 PM", "option_english": "aids" },
+            { "option_id": 289, "question": "having_chronic_disease", "option": "تھیلیمسیہ", "sort_order": 12, "created_datetime": "03-OCT-20 02.29.47.000000000 PM", "updated_datetime": "03-OCT-20 02.29.47.000000000 PM", "option_english": "thalassemia" },
+            { "option_id": 288, "question": "having_chronic_disease", "option": "بلڈ پریشر", "sort_order": 11, "created_datetime": "03-OCT-20 02.29.47.000000000 PM", "updated_datetime": "03-OCT-20 02.29.47.000000000 PM", "option_english": "blood pressure" },
+            { "option_id": 287, "question": "having_chronic_disease", "option": "گردے فیل", "sort_order": 10, "created_datetime": "03-OCT-20 02.29.47.000000000 PM", "updated_datetime": "03-OCT-20 02.29.47.000000000 PM", "option_english": "kidney failure" },
+            { "option_id": 286, "question": "having_chronic_disease", "option": "ہیپاٹائٹس", "sort_order": 9, "created_datetime": "03-OCT-20 02.29.47.000000000 PM", "updated_datetime": "03-OCT-20 02.29.47.000000000 PM", "option_english": "hepatitis" },
+            { "option_id": 22, "question": "having_chronic_disease", "option": "پولیو", "sort_order": 8, "created_datetime": "28-JUN-16 03.30.23.000000000 PM", "updated_datetime": "27-FEB-17 11.04.41.000000000 AM", "option_english": "polio" },
+            { "option_id": 21, "question": "having_chronic_disease", "option": "ٹی بی ", "sort_order": 7, "created_datetime": "28-JUN-16 03.30.23.000000000 PM", "updated_datetime": "27-FEB-17 11.04.41.000000000 AM", "option_english": "tb" },
+            { "option_id": 20, "question": "having_chronic_disease", "option": "ہیپاٹائٹس سی", "sort_order": 6, "created_datetime": "28-JUN-16 03.30.23.000000000 PM", "updated_datetime": "27-FEB-17 11.04.41.000000000 AM", "option_english": "hepatitis c" },
+            { "option_id": 19, "question": "having_chronic_disease", "option": "ذیابطیس ", "sort_order": 5, "created_datetime": "28-JUN-16 03.30.23.000000000 PM", "updated_datetime": "27-FEB-17 11.04.41.000000000 AM", "option_english": "diabetes" },
+            { "option_id": 18, "question": "having_chronic_disease", "option": "دمہ ", "sort_order": 4, "created_datetime": "28-JUN-16 03.30.23.000000000 PM", "updated_datetime": "27-FEB-17 11.04.41.000000000 AM", "option_english": "asthma" },
+            { "option_id": 17, "question": "having_chronic_disease", "option": "سرطان ", "sort_order": 3, "created_datetime": "28-JUN-16 03.30.23.000000000 PM", "updated_datetime": "27-FEB-17 11.04.41.000000000 AM", "option_english": "cancer" },
+            { "option_id": 16, "question": "having_chronic_disease", "option": " عارضہ قلب", "sort_order": 2, "created_datetime": "28-JUN-16 03.30.23.000000000 PM", "updated_datetime": "27-FEB-17 11.04.41.000000000 AM", "option_english": "heart disease" },
+            { "option_id": 15, "question": "having_chronic_disease", "option": "نہیں ", "sort_order": 1, "created_datetime": "28-JUN-16 03.30.23.000000000 PM", "updated_datetime": "27-FEB-17 11.04.41.000000000 AM", "option_english": "no" },
+    
+    {"option_id":404,"question":"having_chronic_disease","option":"مرگی","sort_order":31,"created_datetime":"06-NOV-25 05.23.45.778000000 AM","updated_datetime":"06-NOV-25 05.23.45.778000000 AM","option_english":"Epilepsy"}
+    
+    ,
+      {
+        "option_id": 28,
+        "question": "highest_completed_education",
+        "option": "درجہ اول سے کم",
+        "sort_order": 1
+      },
+      {
+        "option_id": 29,
+        "question": "highest_completed_education",
+        "option": "درجہ اول",
+        "sort_order": 2
+      },
+      {
+        "option_id": 30,
+        "question": "highest_completed_education",
+        "option": "دوم",
+        "sort_order": 3
+      },
+      {
+        "option_id": 31,
+        "question": "highest_completed_education",
+        "option": "سوم",
+        "sort_order": 4
+      },
+      {
+        "option_id": 32,
+        "question": "highest_completed_education",
+        "option": "چہارم",
+        "sort_order": 5
+      },
+      {
+        "option_id": 33,
+        "question": "highest_completed_education",
+        "option": "پنجم ",
+        "sort_order": 6
+      },
+      {
+        "option_id": 34,
+        "question": "highest_completed_education",
+        "option": "ششم",
+        "sort_order": 7
+      },
+      {
+        "option_id": 35,
+        "question": "highest_completed_education",
+        "option": "ہفتم",
+        "sort_order": 8
+      },
+      {
+        "option_id": 36,
+        "question": "highest_completed_education",
+        "option": "ہشتم",
+        "sort_order": 9
+      },
+      {
+        "option_id": 37,
+        "question": "highest_completed_education",
+        "option": "نہم",
+        "sort_order": 10
+      },
+      {
+        "option_id": 38,
+        "question": "highest_completed_education",
+        "option": "دہم",
+        "sort_order": 11
+      },
+      {
+        "option_id": 39,
+        "question": "highest_completed_education",
+        "option": "پولی ٹیکنیک ڈپلومہ",
+        "sort_order": 12
+      },
+      {
+        "option_id": 40,
+        "question": "highest_completed_education",
+        "option": "ایف اے/ایف ایس سی/آئی کام",
+        "sort_order": 13
+      },
+      {
+        "option_id": 41,
+        "question": "highest_completed_education",
+        "option": "بی اے/بی ایس سی/بی ایڈ/بی کام",
+        "sort_order": 14
+      },
+      {
+        "option_id": 42,
+        "question": "highest_completed_education",
+        "option": "ایم اے/ایم ایس سی/ایم بی اے/ایم ایڈ",
+        "sort_order": 15
+      },
+      {
+        "option_id": 43,
+        "question": "highest_completed_education",
+        "option": "انجینئرنگ میں ڈگری",
+        "sort_order": 16
+      },
+      {
+        "option_id": 44,
+        "question": "highest_completed_education",
+        "option": "میڈیسن میں ڈگری",
+        "sort_order": 17
+      },
+      {
+        "option_id": 45,
+        "question": "highest_completed_education",
+        "option": "زراعت میں ڈگری",
+        "sort_order": 18
+      },
+      {
+        "option_id": 46,
+        "question": "highest_completed_education",
+        "option": "وکالت میں ڈگری",
+        "sort_order": 19
+      },
+      {
+        "option_id": 47,
+        "question": "highest_completed_education",
+        "option": "ایم فل/پی ایچ ڈی",
+        "sort_order": 20
+      },
+      {
+        "option_id": 48,
+        "question": "highest_completed_education",
+        "option": "دیگر",
+        "sort_order": 21
+      },
+      {
+        "option_id": 171,
+        "question": "how_resolve_complaints_against_state_dept",
+        "option": "نظر انداز کرکے",
+        "sort_order": 1
+      },
+      {
+        "option_id": 172,
+        "question": "how_resolve_complaints_against_state_dept",
+        "option": "متعلقہ ادارے کو شکایت کر کے",
+        "sort_order": 2
+      },
+      {
+        "option_id": 209,
+        "question": "how_resolve_complaints_against_state_dept",
+        "option": "عدالت سے رجوع کر کے",
+        "sort_order": 3
+      },
+      {
+        "option_id": 174,
+        "question": "how_resolve_complaints_against_state_dept",
+        "option": "محتسب سے رجوع کر کے",
+        "sort_order": 4
+      },
+      {
+        "option_id": 175,
+        "question": "how_resolve_complaints_against_state_dept",
+        "option": "رکان پارلیمنٹ /عوامی نمائندے سے رجوع کر کے",
+        "sort_order": 5
+      },
+      {
+        "option_id": 176,
+        "question": "how_resolve_complaints_against_state_dept",
+        "option": " با اثر افراد سے رجوع کر کے",
+        "sort_order": 6
+      },
+      {
+        "option_id": 177,
+        "question": "how_resolve_complaints_against_state_dept",
+        "option": "معلو م نہیں",
+        "sort_order": 7
+      },
+      {
+        "option_id": 165,
+        "question": "how_resolve_personal_disputes",
+        "option": "روایتی جرگہ/پنجایت",
+        "sort_order": 1
+      },
+      {
+        "option_id": 166,
+        "question": "how_resolve_personal_disputes",
+        "option": "حکومتی ادارے ",
+        "sort_order": 2
+      },
+      {
+        "option_id": 167,
+        "question": "how_resolve_personal_disputes",
+        "option": "ارکان پارلیمنٹ /عوامی نمائندے",
+        "sort_order": 3
+      },
+      {
+        "option_id": 168,
+        "question": "how_resolve_personal_disputes",
+        "option": "بااثر افراد",
+        "sort_order": 4
+      },
+      {
+        "option_id": 169,
+        "question": "how_resolve_personal_disputes",
+        "option": "دیگر ذرائع",
+        "sort_order": 5
+      },
+      {
+        "option_id": 208,
+        "question": "how_resolve_personal_disputes",
+        "option": "معلوم نہیں",
+        "sort_order": 6
+      },
+      {
+        "option_id": 1,
+        "question": "interview_status",
+        "option": "گھرانے کا انٹرویو دینے سے انکار",
+        "sort_order": 1
+      },
+      {
+        "option_id": 2,
+        "question": "interview_status",
+        "option": "گھر پر کوئی موجو د نہیں تھا",
+        "sort_order": 2
+      },
+      {
+        "option_id": 3,
+        "question": "interview_status",
+        "option": " انٹرویو جاری رہے",
+        "sort_order": 3
+      },
+      {
+        "option_id": 4,
+        "question": "is_bisp_beneficiary",
+        "option": "جی ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 5,
+        "question": "is_bisp_beneficiary",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 163,
+        "question": "is_infant_death_or_stillbirth",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 164,
+        "question": "is_infant_death_or_stillbirth",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 161,
+        "question": "is_migrated_for_economic_activities",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 162,
+        "question": "is_migrated_for_economic_activities",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 113,
+        "question": "is_own_agricultural_land",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 114,
+        "question": "is_own_agricultural_land",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 178,
+        "question": "level_of_satisfiaction_with_state_Justice",
+        "option": "انتہائی مطمئن",
+        "sort_order": 1
+      },
+      {
+        "option_id": 179,
+        "question": "level_of_satisfiaction_with_state_Justice",
+        "option": "مطمئن",
+        "sort_order": 2
+      },
+      {
+        "option_id": 180,
+        "question": "level_of_satisfiaction_with_state_Justice",
+        "option": "غیر جانبدار",
+        "sort_order": 3
+      },
+      {
+        "option_id": 181,
+        "question": "level_of_satisfiaction_with_state_Justice",
+        "option": "غیرمطمئن",
+        "sort_order": 4
+      },
+      {
+        "option_id": 182,
+        "question": "level_of_satisfiaction_with_state_Justice",
+        "option": "انتہائی غیر مطمئن",
+        "sort_order": 5
+      },
+      {
+        "option_id": 183,
+        "question": "level_of_satisfiaction_with_state_Justice",
+        "option": "کوئی تجربہ نہیں",
+        "sort_order": 6
+      },
+      {
+        "option_id": 200,
+        "question": "marital_status",
+        "option": "غیر شادی شدہ",
+        "sort_order": 1
+      },
+      {
+        "option_id": 201,
+        "question": "marital_status",
+        "option": "شادی شدہ",
+        "sort_order": 2
+      },
+      {
+        "option_id": 202,
+        "question": "marital_status",
+        "option": "بیوہ /رنڈوا",
+        "sort_order": 3
+      },
+      {
+        "option_id": 203,
+        "question": "marital_status",
+        "option": "مطلقہ/طلاق شدہ",
+        "sort_order": 4
+      },
+      {
+        "option_id": 204,
+        "question": "marital_status",
+        "option": "صرف نکاح ہواہے( رخصتی نہیں ہوئی)",
+        "sort_order": 5
+      },
+      {
+        "option_id": 218,
+        "question": "mother_language",
+        "option": "اردو",
+        "sort_order": 1
+      },
+      {
+        "option_id": 219,
+        "question": "mother_language",
+        "option": "پشتو",
+        "sort_order": 2
+      },
+      {
+        "option_id": 220,
+        "question": "mother_language",
+        "option": "سندھی",
+        "sort_order": 3
+      },
+      {
+        "option_id": 221,
+        "question": "mother_language",
+        "option": "پنجابی",
+        "sort_order": 4
+      },
+      {
+        "option_id": 222,
+        "question": "mother_language",
+        "option": "بلوچی",
+        "sort_order": 5
+      },
+      {
+        "option_id": 223,
+        "question": "mother_language",
+        "option": "براھوی",
+        "sort_order": 6
+      },
+      {
+        "option_id": 224,
+        "question": "mother_language",
+        "option": "سرائیکی",
+        "sort_order": 7
+      },
+      {
+        "option_id": 225,
+        "question": "mother_language",
+        "option": "پوٹھوہاری",
+        "sort_order": 8
+      },
+      {
+        "option_id": 226,
+        "question": "mother_language",
+        "option": "ھندکو",
+        "sort_order": 9
+      },
+      {
+        "option_id": 227,
+        "question": "mother_language",
+        "option": "بروشسکی",
+        "sort_order": 10
+      },
+      {
+        "option_id": 228,
+        "question": "mother_language",
+        "option": "بلتی",
+        "sort_order": 11
+      },
+      {
+        "option_id": 229,
+        "question": "mother_language",
+        "option": "شینا",
+        "sort_order": 12
+      },
+      {
+        "option_id": 230,
+        "question": "mother_language",
+        "option": "کشمیری",
+        "sort_order": 13
+      },
+      {
+        "option_id": 231,
+        "question": "mother_language",
+        "option": "کھووار/چترالی",
+        "sort_order": 14
+      },
+      {
+        "option_id": 232,
+        "question": "mother_language",
+        "option": "دری/فارسی",
+        "sort_order": 15
+      },
+      {
+        "option_id": 233,
+        "question": "mother_language",
+        "option": "دیگر",
+        "sort_order": 16
+      },
+      {
+        "option_id": 275,
+        "question": "neighbour_survey_done",
+        "option": "گھرانے کا سروے ہوا تھا",
+        "sort_order": 1
+      },
+      {
+        "option_id": 276,
+        "question": "neighbour_survey_done",
+        "option": "گھرانے کا سروے نہيں ہوا تھا",
+        "sort_order": 2
+      },
+      {
+        "option_id": 277,
+        "question": "neighbour_survey_done",
+        "option": "گھرانہ سروے کے بعد يہاں رہائش پذير ہوا",
+        "sort_order": 3
+      },
+      {
+        "option_id": 278,
+        "question": "neighbour_survey_done",
+        "option": "معلوم نہيں",
+        "sort_order": 4
+      },
+      {
+        "option_id": 111,
+        "question": "own_any_livestock",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 112,
+        "question": "own_any_livestock",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 63,
+        "question": "present_occupancy_status",
+        "option": "ذاتی رہائش (Not self-hired)",
+        "sort_order": 1
+      },
+      {
+        "option_id": 64,
+        "question": "present_occupancy_status",
+        "option": " ذاتی رہائش (ِself hired) ",
+        "sort_order": 5
+      },
+      {
+        "option_id": 65,
+        "question": "present_occupancy_status",
+        "option": "کرائے پر ",
+        "sort_order": 3
+      },
+      {
+        "option_id": 66,
+        "question": "present_occupancy_status",
+        "option": " رعایتی کرائے پر",
+        "sort_order": 4
+      },
+      {
+        "option_id": 67,
+        "question": "present_occupancy_status",
+        "option": "بغیر کرائے کے",
+        "sort_order": 2
+      },
+      {
+        "option_id": 23,
+        "question": "read_any_language",
+        "option": "جی ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 24,
+        "question": "read_any_language",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 279,
+        "question": "reason_not_to_survey",
+        "option": "گھر پر کسی فرد کا موجود نہ ہونا",
+        "sort_order": 1
+      },
+      {
+        "option_id": 280,
+        "question": "reason_not_to_survey",
+        "option": "سروے  کے اہلکار کو معلومات کی فراہمی سے انکار",
+        "sort_order": 2
+      },
+      {
+        "option_id": 281,
+        "question": "reason_not_to_survey",
+        "option": "سروے کی ٹيموں کا علاقے ميں سروے نہ کرنا",
+        "sort_order": 3
+      },
+      {
+        "option_id": 282,
+        "question": "reason_not_to_survey",
+        "option": "پتہ نہيں",
+        "sort_order": 4
+      },
+      {
+        "option_id": 186,
+        "question": "relation_to_household_head",
+        "option": "سربراہ",
+        "sort_order": 1
+      },
+      {
+        "option_id": 271,
+        "question": "relation_to_household_head",
+        "option": "شوہر",
+        "sort_order": 2
+      },
+      {
+        "option_id": 272,
+        "question": "relation_to_household_head",
+        "option": "بیوی",
+        "sort_order": 3
+      },
+      {
+        "option_id": 189,
+        "question": "relation_to_household_head",
+        "option": "پوتا/پوتی/نواسا/نواسی",
+        "sort_order": 4
+      },
+      {
+        "option_id": 273,
+        "question": "relation_to_household_head",
+        "option": "بیٹا/بیٹی",
+        "sort_order": 4
+      },
+      {
+        "option_id": 190,
+        "question": "relation_to_household_head",
+        "option": "والد/والدہ",
+        "sort_order": 5
+      },
+      {
+        "option_id": 191,
+        "question": "relation_to_household_head",
+        "option": "بھائی/بہن/سوتیلا بھائی/سوتیلی بہن",
+        "sort_order": 6
+      },
+      {
+        "option_id": 284,
+        "question": "relation_to_household_head",
+        "option": "سوتیلا باپ/سوتیلی ماں",
+        "sort_order": 6
+      },
+      {
+        "option_id": 192,
+        "question": "relation_to_household_head",
+        "option": "بھتیجا/بھتیجی/بھانجا/بھانجی",
+        "sort_order": 7
+      },
+      {
+        "option_id": 274,
+        "question": "relation_to_household_head",
+        "option": "سوتیلا بیٹا/سوتیلا بیٹی",
+        "sort_order": 7
+      },
+      {
+        "option_id": 193,
+        "question": "relation_to_household_head",
+        "option": "داماد/بہو",
+        "sort_order": 8
+      },
+      {
+        "option_id": 205,
+        "question": "relation_to_household_head",
+        "option": "بھابی/دیور/نند/سالا/سالی",
+        "sort_order": 9
+      },
+      {
+        "option_id": 195,
+        "question": "relation_to_household_head",
+        "option": "سسر/ساس",
+        "sort_order": 10
+      },
+      {
+        "option_id": 196,
+        "question": "relation_to_household_head",
+        "option": "دادا/دادی/نانا/نانی",
+        "sort_order": 11
+      },
+      {
+        "option_id": 197,
+        "question": "relation_to_household_head",
+        "option": "چاچا/چاچی/ماما /ممانی/پھوپھا/پھوپھی/خالو/خالہ",
+        "sort_order": 12
+      },
+      {
+        "option_id": 198,
+        "question": "relation_to_household_head",
+        "option": "ملازم اور اسکے رشتہ دار",
+        "sort_order": 13
+      },
+      {
+        "option_id": 234,
+        "question": "relation_to_household_head",
+        "option": "دیگر",
+        "sort_order": 14
+      },
+      {
+        "option_id": 73,
+        "question": "roof_material_used",
+        "option": "RCC/RBC ",
+        "sort_order": 1
+      },
+      {
+        "option_id": 74,
+        "question": "roof_material_used",
+        "option": "لکڑی /بانس",
+        "sort_order": 2
+      },
+      {
+        "option_id": 206,
+        "question": "roof_material_used",
+        "option": "لوہے/سیمنٹ کی چادریں",
+        "sort_order": 3
+      },
+      {
+        "option_id": 207,
+        "question": "roof_material_used",
+        "option": "گارڈر/ٹی آئرن",
+        "sort_order": 4
+      },
+      {
+        "option_id": 77,
+        "question": "roof_material_used",
+        "option": "دیگر",
+        "sort_order": 5
+      },
+      {
+        "option_id": 91,
+        "question": "source_of_drinking_water",
+        "option": "نل (Piped)",
+        "sort_order": 1
+      },
+      {
+        "option_id": 92,
+        "question": "source_of_drinking_water",
+        "option": "دستی نلکا",
+        "sort_order": 2
+      },
+      {
+        "option_id": 93,
+        "question": "source_of_drinking_water",
+        "option": "پانی کی موٹر/ٹیوب ویل",
+        "sort_order": 3
+      },
+      {
+        "option_id": 94,
+        "question": "source_of_drinking_water",
+        "option": "کھلا کنواں",
+        "sort_order": 4
+      },
+      {
+        "option_id": 95,
+        "question": "source_of_drinking_water",
+        "option": " بند کنواں",
+        "sort_order": 5
+      },
+      {
+        "option_id": 96,
+        "question": "source_of_drinking_water",
+        "option": " دریا/ندی/تالاب/ جوہڑ",
+        "sort_order": 6
+      },
+      {
+        "option_id": 97,
+        "question": "source_of_drinking_water",
+        "option": " چشمہ",
+        "sort_order": 7
+      },
+      {
+        "option_id": 98,
+        "question": "source_of_drinking_water",
+        "option": "منرل واٹر",
+        "sort_order": 8
+      },
+      {
+        "option_id": 99,
+        "question": "source_of_drinking_water",
+        "option": "ٹینکر/ٹرک/پانی لانے والا",
+        "sort_order": 9
+      },
+      {
+        "option_id": 100,
+        "question": "source_of_drinking_water",
+        "option": " فلٹریشن پلانٹ",
+        "sort_order": 10
+      },
+      {
+        "option_id": 101,
+        "question": "source_of_drinking_water",
+        "option": " دیگر",
+        "sort_order": 11
+      },
+      {
+        "option_id": 85,
+        "question": "toilet_used",
+        "option": "فلش سسٹم سیورج سے منسلک",
+        "sort_order": 1
+      },
+      {
+        "option_id": 86,
+        "question": "toilet_used",
+        "option": "فلش ٹینک سے منسلک",
+        "sort_order": 2
+      },
+      {
+        "option_id": 87,
+        "question": "toilet_used",
+        "option": "فلش کھلی نالی سے منسلک ",
+        "sort_order": 3
+      },
+      {
+        "option_id": 88,
+        "question": "toilet_used",
+        "option": " کھڈ ی",
+        "sort_order": 4
+      },
+      {
+        "option_id": 89,
+        "question": "toilet_used",
+        "option": "گڑھا کھدا ہوا",
+        "sort_order": 5
+      },
+      {
+        "option_id": 90,
+        "question": "toilet_used",
+        "option": " سہولت موجود نہیں",
+        "sort_order": 6
+      },
+      {
+        "option_id": 115,
+        "question": "unit_of_land",
+        "option": "مرلہ ",
+        "sort_order": 1
+      },
+      {
+        "option_id": 116,
+        "question": "unit_of_land",
+        "option": "کنال ",
+        "sort_order": 2
+      },
+      {
+        "option_id": 117,
+        "question": "unit_of_land",
+        "option": "ایکٹر ",
+        "sort_order": 3
+      },
+      {
+        "option_id": 118,
+        "question": "unit_of_land",
+        "option": "مربع",
+        "sort_order": 4
+      },
+      {
+        "option_id": 210,
+        "question": "unit_of_land",
+        "option": "جرب",
+        "sort_order": 5
+      },
+      {
+        "option_id": 68,
+        "question": "wall_material_used",
+        "option": " پکی اینٹیں (بلاک)",
+        "sort_order": 1
+      },
+      {
+        "option_id": 69,
+        "question": "wall_material_used",
+        "option": "کچی اینٹیں (گارا)",
+        "sort_order": 2
+      },
+      {
+        "option_id": 70,
+        "question": "wall_material_used",
+        "option": "لکڑی/بانس ",
+        "sort_order": 3
+      },
+      {
+        "option_id": 71,
+        "question": "wall_material_used",
+        "option": "پتھر",
+        "sort_order": 4
+      },
+      {
+        "option_id": 72,
+        "question": "wall_material_used",
+        "option": "دیگر ",
+        "sort_order": 5
+      },
+      {
+        "option_id": 159,
+        "question": "willing_for_financial_asst",
+        "option": "ہاں",
+        "sort_order": 1
+      },
+      {
+        "option_id": 160,
+        "question": "willing_for_financial_asst",
+        "option": "نہیں",
+        "sort_order": 2
+      },
+      {
+        "option_id": 49,
+        "question": "work_status",
+        "option": "برسرز روزگار",
+        "sort_order": 1
+      },
+      {
+        "option_id": 50,
+        "question": "work_status",
+        "option": "بے روزگار لیکن روزگار کا متلاشی ",
+        "sort_order": 2
+      },
+      {
+        "option_id": 51,
+        "question": "work_status",
+        "option": "نہ ہی برسرِ روزگار اور نہ ہی روزگار کا متلاشی بوجہ ریٹائرڈ منٹ، طالب علمی، خاتونِ خانہ، معذوری وغیرہ",
+        "sort_order": 3
+      },
+      {
+        "option_id": 295,
+        "question": "average_monthly_income",
+        "option": "Rs. 0-5000",
+        "sort_order": 1
+      },
+      {
+        "option_id": 296,
+        "question": "average_monthly_income",
+        "option": "Rs. 5001-10000",
+        "sort_order": 2
+      },
+      {
+        "option_id": 297,
+        "question": "average_monthly_income",
+        "option": "Rs. 10001-15000",
+        "sort_order": 3
+      },
+      {
+        "option_id": 298,
+        "question": "average_monthly_income",
+        "option": "Rs. 15001-20000",
+        "sort_order": 4
+      },
+      {
+        "option_id": 299,
+        "question": "average_monthly_income",
+        "option": "Rs. 20001-25000",
+        "sort_order": 5
+      },
+      {
+        "option_id": 300,
+        "question": "average_monthly_income",
+        "option": "Rs. 25001-30000",
+        "sort_order": 6
+      },
+      {
+        "option_id": 301,
+        "question": "average_monthly_income",
+        "option": "Rs. 30001-35000",
+        "sort_order": 7
+      },
+      {
+        "option_id": 302,
+        "question": "average_monthly_income",
+        "option": "Rs. 35001-40000",
+        "sort_order": 8
+      },
+      {
+        "option_id": 303,
+        "question": "average_monthly_income",
+        "option": "Rs. 40001-45000",
+        "sort_order": 9
+      },
+      {
+        "option_id": 304,
+        "question": "average_monthly_income",
+        "option": "Rs. 45001-50000",
+        "sort_order": 10
+      },
+      {
+        "option_id": 305,
+        "question": "average_monthly_income",
+        "option": "Rs. 50001-55000",
+        "sort_order": 11
+      },
+      {
+        "option_id": 306,
+        "question": "average_monthly_income",
+        "option": "Rs. 55001-60000",
+        "sort_order": 12
+      },
+      {
+        "option_id": 307,
+        "question": "average_monthly_income",
+        "option": "Rs. 60001-65000",
+        "sort_order": 13
+      },
+      {
+        "option_id": 308,
+        "question": "average_monthly_income",
+        "option": "Rs. 65001-70000",
+        "sort_order": 14
+      },
+      {
+        "option_id": 309,
+        "question": "average_monthly_income",
+        "option": "Rs. 70001-75000",
+        "sort_order": 15
+      },
+      {
+        "option_id": 310,
+        "question": "average_monthly_income",
+        "option": "Rs. 75001-80000",
+        "sort_order": 16
+      },
+      {
+        "option_id": 311,
+        "question": "average_monthly_income",
+        "option": "Rs. 80001-85000",
+        "sort_order": 17
+      },
+      {
+        "option_id": 312,
+        "question": "average_monthly_income",
+        "option": "Rs. 85001-90000",
+        "sort_order": 18
+      },
+      {
+        "option_id": 313,
+        "question": "average_monthly_income",
+        "option": "Rs. 90001-95000",
+        "sort_order": 19
+      },
+      {
+        "option_id": 314,
+        "question": "average_monthly_income",
+        "option": "Rs. 95001-100000",
+        "sort_order": 20
+      },
+      {
+        "option_id": 315,
+        "question": "average_monthly_income",
+        "option": "Above-100000",
+        "sort_order": 21
+      },
+
+
+
+
+
+         {
+           "option_id": 333,
+           "question": "is_immunized",
+           "option": "Not Immunized",
+           "sort_order": 1
+         },
+         {
+           "option_id": 334,
+           "question": "is_immunized",
+           "option": "Immunized - Card Available",
+           "sort_order": 2
+         },
+         {
+           "option_id": 335,
+           "question": "is_immunized",
+           "option": "Immunized - Card not available",
+           "sort_order": 3
+         },
+
+
+
+
+
+          {
+             "option_id": 326,
+             "question": "immunization_events",
+             "option": "9 سے 14 سال کی عمر کی لڑکیاں (ہیومن پیپیلوما وائرس (ایچ پی وی))",
+             "sort_order": 7
+           },
+           {
+             "option_id": 325,
+             "question": "immunization_events",
+             "option": "15 ماہ کی عمر میں (ایم آر-2، ٹی ڈی، چکن پاکس)",
+             "sort_order": 6
+           },
+           {
+             "option_id": 324,
+             "question": "immunization_events",
+             "option": "9 ماہ کی عمر میں - پانچویں دفعہ (ایم آر-1، آئی پی وی-2، ٹائیفائیڈ)",
+             "sort_order": 5
+           },
+           {
+             "option_id": 323,
+             "question": "immunization_events",
+             "option": "14 ہفتے کی عمر میں - چوتھی دفعہ(او پی وی-3، آئی پی وی-2، نمونیہ-3، پینٹاویلنٹ-3)",
+             "sort_order": 4
+           },
+
+
+
+
+
+
+
+
+           {
+             "option_id": 322,
+             "question": "immunization_events",
+             "option": "دس ہفتے کی عمر میں - تیسری دفعہ(او پی وی-2، روٹا وائرس-2، نمونیہ-2، پینٹاویلنٹ-2)",
+             "sort_order": 3
+           },
+           {
+             "option_id": 321,
+             "question": "immunization_events",
+             "option": "چھ ہفتے کی عمر میں - دوسری دفعہ (او پی وی-1، روٹا وائرس-1، نمونیہ-1، پینٹاویلنٹ-1)",
+             "sort_order": 2
+           },
+           {
+             "option_id": 320,
+             "question": "immunization_events",
+             "option": "پیدائش کے وقت - پہلی دفعہ (بی سی جی، او پی وی، ہیپاٹائٹس بی)",
+             "sort_order":1
+        }
+,
+
+{"option_id":342,"question":"immunization_response","option":"Yes - Recall","sort_order":3,"created_datetime":"29-OCT-25 05.23.45.778000000 AM","updated_datetime":"29-OCT-25 05.23.45.778000000 AM","option_english":"Yes - Recall"}
+,{"option_id":341,"question":"immunization_response","option":"Yes - Card Available","sort_order":2,"created_datetime":"29-OCT-25 05.23.45.778000000 AM","updated_datetime":"29-OCT-25 05.23.45.778000000 AM","option_english":"Yes - Card Available"}
+,{"option_id":340,"question":"immunization_response","option":"No","sort_order":1,"created_datetime":"29-OCT-25 05.23.45.778000000 AM","updated_datetime":"29-OCT-25 05.23.45.778000000 AM","option_english":"No"}
+,
+
+
+
+
+
+{
+    "option_id": 362,
+    "question": "immunization_reason",
+    "option": "مالی یا نقل و حرکت کی مشکلات کی وجہ سے استطاعت نہیں",
+    "sort_order": 2
+  },
+  {
+    "option_id": 361,
+    "question": "immunization_reason",
+    "option": "ویکسینیشن مرکز بہت دور ہے",
+    "sort_order": 3
+  },
+  {
+    "option_id": 360,
+    "question": "immunization_reason",
+    "option": "ویکسینیشن مرکز غیر موزوں ہے",
+    "sort_order": 4
+  },
+  {
+    "option_id": 359,
+    "question": "immunization_reason",
+    "option": "نگہداشت کرنے والا مصروف تھا / وقت نہیں نکال سکا",
+    "sort_order": 5
+  },
+  {
+    "option_id": 358,
+    "question": "immunization_reason",
+    "option": "ٹیم نے دورہ نہیں کیا / گھر پر ویکسینیٹر کی توقع تھی",
+    "sort_order": 6
+  },
+  {
+    "option_id": 357,
+    "question": "immunization_reason",
+    "option": "خاتون عملہ دستیاب نہیں",
+    "sort_order": 1
+  },
+  {
+    "option_id": 356,
+    "question": "immunization_reason",
+    "option": "علاقے میں ویکسینیشن کی سرگرمی نہیں ہوئی",
+    "sort_order": 7
+  },
+  {
+    "option_id": 354,
+    "question": "immunization_reason",
+    "option": "یقین کہ ویکسین بیماری، بانجھ پن پیدا کرتی ہے یا غیر ملکی سازش ہے",
+    "sort_order": 8
+  },
+  {
+    "option_id": 353,
+    "question": "immunization_reason",
+    "option": "نگہداشت کرنے والا سمجھتا ہے کہ ویکسین کی ضرورت نہیں",
+    "sort_order": 9
+  },
+  {
+    "option_id": 352,
+    "question": "immunization_reason",
+    "option": "نگہداشت کرنے والے کو حفاظتی ٹیکوں کا علم نہیں",
+    "sort_order": 10
+  },
+  {
+    "option_id": 351,
+    "question": "immunization_reason",
+    "option": "نگہداشت کرنے والے کو جگہ، تاریخ یا وقت کا علم نہیں",
+    "sort_order": 11
+  },
+  {
+    "option_id": 350,
+    "question": "immunization_reason",
+    "option": "ویکسینیشن کے وقت بچہ / بچی بیمار تھا / تھی",
+    "sort_order":12
+},
+
+
+
+
+
+
+
+
+{
+          "option_id": 370,
+          "question": "height_of_child",
+          "option": "بہت لمبا / لمبی",
+          "sort_order": 1,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Very high"
+        },
+        {
+          "option_id": 371,
+          "question": "height_of_child",
+          "option": "لمبا / لمبی",
+          "sort_order": 2,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "High"
+        },
+        {
+          "option_id": 372,
+          "question": "height_of_child",
+          "option": "متوازن / معمول کے مطابق",
+          "sort_order": 3,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Symmetrical"
+        },
+        {
+          "option_id": 373,
+          "question": "height_of_child",
+          "option": "چھوٹا / چھوٹی",
+          "sort_order": 4,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Short"
+        },
+        {
+          "option_id": 374,
+          "question": "height_of_child",
+          "option": "بہت چھوٹا / چھوٹی",
+          "sort_order": 5,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Very Short"
+        },
+        {
+          "option_id": 375,
+          "question": "weight_of_child",
+          "option": "بہت موٹا / موٹی",
+          "sort_order": 1,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Very Fat"
+        },
+        {
+          "option_id": 376,
+          "question": "weight_of_child",
+          "option": "موٹا / موٹی",
+          "sort_order": 2,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Fat"
+        },
+        {
+          "option_id": 377,
+          "question": "weight_of_child",
+          "option": "متوازن / معمول کے مطابق",
+          "sort_order": 3,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Symmetrical"
+        },
+        {
+          "option_id": 378,
+          "question": "weight_of_child",
+          "option": "دُبلا / دُبلی",
+          "sort_order": 4,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Thin"
+        },
+        {
+          "option_id": 379,
+          "question": "weight_of_child",
+          "option": "بہت دُبلا / دُبلی",
+          "sort_order": 5,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Very Thin"
+        },
+
+         {
+                  "option_id": 0,
+                  "question": "data_collection_modality",
+                  "option": "یہ سروے کہاں پُر کیا جا رہا ہے؟",
+                  "sort_order": 0,
+                  "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "option_english": "Dynamic Registry Center at BISP Tehsil Office"
+                },
+
+        {
+          "option_id": 380,
+          "question": "data_collection_modality",
+          "option": "بی آئی ایس پی تحصیل دفتر میں ڈائنامک رجسٹری سینٹر",
+          "sort_order": 1,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Dynamic Registry Center at BISP Tehsil Office"
+        },
+        {
+          "option_id": 381,
+          "question": "data_collection_modality",
+          "option": "ڈائنامک رجسٹری سینٹر",
+          "sort_order": 2,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Dynamic Registry Center"
+        },
+        {
+          "option_id": 382,
+          "question": "data_collection_modality",
+          "option": "موبائل وین",
+          "sort_order": 3,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Mobile Van"
+        },
+        {
+          "option_id": 383,
+          "question": "data_collection_modality",
+          "option": "اسکول میں",
+          "sort_order": 4,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "At School"
+        },
+        {
+          "option_id": 384,
+          "question": "data_collection_modality",
+          "option": "یوٹیلٹی اسٹور",
+          "sort_order": 5,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Utility Store"
+        },
+        {
+          "option_id": 385,
+          "question": "data_collection_modality",
+          "option": "یونین کونسل دفتر",
+          "sort_order": 6,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "UC Office"
+        },
+        {
+          "option_id": 386,
+          "question": "data_collection_modality",
+          "option": "معزز / بااثر فرد",
+          "sort_order": 7,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Notable/Influential"
+        },
+        {
+          "option_id": 387,
+          "question": "data_collection_modality",
+          "option": "کیمپ سائٹ",
+          "sort_order": 8,
+          "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+          "option_english": "Campsite"
+        },
+
+
+
+
+
+
+
+
+
+
+        // bnelow is Operator
+
+
+        {
+                  "option_id": 1300,
+                  "question": "sim_operator",
+                  "option": "Jazz",
+                  "sort_order": 1,
+                  "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "option_english": "Dynamic Registry Center at BISP Tehsil Office"
+                },
+                {
+                  "option_id": 1345,
+                  "question": "sim_operator",
+                  "option": "Telenor",
+                  "sort_order": 2,
+                  "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "option_english": "Dynamic Registry Center"
+                },
+                {
+                  "option_id": 1333,
+                  "question": "sim_operator",
+                  "option": "Ufone",
+                  "sort_order": 3,
+                  "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "option_english": "Mobile Van"
+                },
+                {
+                  "option_id": 1310,
+                  "question": "sim_operator",
+                  "option": "Zong",
+                  "sort_order": 4,
+                  "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "option_english": "At School"
+                }
+
+                ,
+                {
+                  "option_id": 1355,
+                  "question": "sim_operator",
+                  "option": "SCom",
+                  "sort_order": 5,
+                  "created_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "updated_datetime": "04-NOV-25 05.23.45.778000000 AM",
+                  "option_english": "Utility Store"
+                }
+
+    ]
+  },
+  "status": "Success",
+  "message": "Synced Successfully !!!",
+  "version": null,
+  "force_update": "0",
+  "no_cnic_count": 10
+}

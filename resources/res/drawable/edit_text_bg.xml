@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true">
+        <layer-list>
+            <item>
+                <shape
+                    android:shape="rectangle"
+                    android:thickness="0dp">
+                    <solid android:color="@color/white"/>
+                    <stroke
+                        android:width="1dp"
+                        android:color="@color/colorPrimary"/>
+                    <padding
+                        android:left="10dp"
+                        android:top="10dp"
+                        android:right="10dp"
+                        android:bottom="10dp"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item
+        android:state_selected="true"
+        android:state_pressed="true">
+        <layer-list>
+            <item>
+                <shape
+                    android:shape="rectangle"
+                    android:thickness="0dp">
+                    <solid android:color="@color/white"/>
+                    <stroke
+                        android:width="1dp"
+                        android:color="@color/colorButtonRed"/>
+                    <padding
+                        android:left="10dp"
+                        android:top="10dp"
+                        android:right="10dp"
+                        android:bottom="10dp"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:state_enabled="false">
+        <layer-list>
+            <item>
+                <shape
+                    android:shape="rectangle"
+                    android:thickness="0dp">
+                    <solid android:color="@color/gray_text_color"/>
+                    <stroke
+                        android:width="1dp"
+                        android:color="@color/colorAccent"/>
+                    <padding
+                        android:left="10dp"
+                        android:top="10dp"
+                        android:right="10dp"
+                        android:bottom="10dp"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item>
+                <shape
+                    android:shape="rectangle"
+                    android:thickness="0dp">
+                    <stroke
+                        android:width="1dp"
+                        android:color="@color/colorPrimary"/>
+                    <padding
+                        android:left="10dp"
+                        android:top="10dp"
+                        android:right="10dp"
+                        android:bottom="10dp"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

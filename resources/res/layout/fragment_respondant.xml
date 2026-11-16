@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textSize="@dimen/heading_text_size"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:id="@+id/tv_header"
+        android:background="@color/colorButtonBlue"
+        android:padding="@dimen/header_padding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/select_respondant"
+        android:layout_alignParentTop="true"/>
+    <Spinner
+        android:id="@+id/sp_respondant"
+        android:background="@drawable/spinner_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/tv_header"/>
+</RelativeLayout>

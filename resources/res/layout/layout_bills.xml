@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/llElecMeterBill"
+        android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:textSize="@dimen/textview_text_size"
+            android:id="@+id/elec_et"
+            android:background="@drawable/edit_text_bg"
+            android:nextFocusDown="@+id/mobile_number_repeat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:hint="Please Enter Electricity Meter Number"
+            android:maxLines="1"
+            android:maxLength="14"
+            android:digits="0123456789"
+            android:inputType="number"
+            android:imeOptions="actionNext"/>
+        <Button
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:id="@+id/btn_scan_elec"
+            android:background="@drawable/btn_selector_roster"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Scan Electricity Meter Bar/QR Code"
+            android:textAlignment="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/llGasMeterBill"
+        android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:textSize="@dimen/textview_text_size"
+            android:id="@+id/gas_et"
+            android:background="@drawable/edit_text_bg"
+            android:nextFocusDown="@+id/mobile_number_repeat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:hint="Please Enter Gas Meter Number"
+            android:maxLines="1"
+            android:maxLength="11"
+            android:digits="0123456789"
+            android:inputType="number"
+            android:imeOptions="actionNext"/>
+        <Button
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:id="@+id/btn_scan_gas"
+            android:background="@drawable/btn_selector_roster"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Scan Gas Meter Bar/QR Code"
+            android:textAlignment="center"/>
+    </LinearLayout>
+</LinearLayout>
